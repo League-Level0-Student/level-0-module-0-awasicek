@@ -8,7 +8,7 @@ public class MyJavaProgram {
 		
 		// START HERE
 	
-		
+		System.out.println("hello world");
 		
 	}
 }
