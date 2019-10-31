@@ -21,7 +21,7 @@ public class RobotSquare {
 
         // 6. Make the robot move as fast as possible
 
-    	r2d2.setSpeed(10);
+    	r2d2.setSpeed(100);
 
         // 5. Do everything below here 4 times
 
